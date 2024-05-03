@@ -1,0 +1,32 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2%;
+}
+.contenedorLista {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+.botonCompletada {
+    margin: 0px 10px;
+}
+ol {
+    width: 100%;
+}
+.list-group-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contenedorBotones {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.inputEditar {
+    width: 60%;
+}
